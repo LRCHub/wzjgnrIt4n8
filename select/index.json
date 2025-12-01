@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "携帯恋話／まふまふ covered by 藍月なくる × nayuta",
+  "base_artist": "nayuta",
+  "createdAt": "2025-12-01T02:14:35.435372Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "携帯恋話 (feat. 東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_携帯恋話_(feat._東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "携帯恋話 (feat. 東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_携帯恋話_(feat._東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "携帯恋話",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_携帯恋話_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "携帯恋話",
+      "artist": "25時、ナイトコードで。 feat. 東雲絵名&暁山瑞希&初音ミク",
+      "has_synced": true,
+      "path": "select/04_携帯恋話_25時、ナイトコードで。_feat._東雲絵名&暁山瑞希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "携帯恋話 (feat. 東雲絵名",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/05_携帯恋話_(feat._東雲絵名_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "携帯恋話 / Vocal:東雲 絵名",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/06_携帯恋話___Vocal_東雲_絵名_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "携帯恋話",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/07_携帯恋話_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "携帯恋話",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_携帯恋話_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "携帯恋話／まふまふ covered by 藍月なくる × nayuta",
+      "artist": "nayuta",
+      "has_synced": false,
+      "path": "select/pl_携帯恋話_まふまふ_covered_by_藍月なくる_×_nayuta_nayuta.txt"
+    }
+  ]
+}
